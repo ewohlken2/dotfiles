@@ -1,0 +1,1 @@
+/Users/elvis.wohlken/.zprezto/runcoms/zprofile
